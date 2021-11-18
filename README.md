@@ -1,6 +1,6 @@
 <div align="center">Hi, I'm Tho Tyno 👋</div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=thotyno&color=blue)]
+![Profile Views](https://komarev.com/ghpvc/?username=thotyno&color=blue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thotyno)](https://github.com/anuraghazra/github-readme-stats)
 
