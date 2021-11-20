@@ -15,23 +15,21 @@
     const postItem = React.createElement(
         'div', {
             className: 'post-item'
-        }, 
+        },
+
         React.createElement(
             'h2',
             {
                 title: "Học ReactJS tại F8"
-            },
-            'Học ReactJS'
-
+            }, 'Học ReactJS'
         ),
+
         React.createElement(
             'p',{},'Học ReactJs từ cở bản tới nâng cao.'
         )
     )
-    console.log(postItem);
-    
+    console.log(postItem)
     const root = document.getElementById('root')
-
     ReactDOM.render(postItem, root)
 </script>
 </html>
