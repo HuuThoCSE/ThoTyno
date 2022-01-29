@@ -9,5 +9,5 @@
 
 Giải thưởng
 --
-10 - 01 - 2020: Giải nhất - Tập thể - Cuộc thi Khoa học kỹ thuật cấp trường THPT
-26 - 01 - 2019: Giải nhì - Cá nhân - Cuộc thi Khoa học kỹ thuật cấp trường THPT
+#### 10 - 01 - 2020: Giải nhất - Tập thể - Cuộc thi Khoa học kỹ thuật cấp trường THPT
+#### 26 - 01 - 2019: Giải nhì - Cá nhân - Cuộc thi Khoa học kỹ thuật cấp trường THPT
