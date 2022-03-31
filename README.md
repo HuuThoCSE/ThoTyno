@@ -9,8 +9,9 @@
 
 Giải thưởng
 --
-10 - 01 - 2020: Giải nhất - Tập thể - Cuộc thi Khoa học kỹ thuật cấp trường THPT
+## 10 - 01 - 2020: Giải nhất - Tập thể - Cuộc thi Khoa học kỹ thuật cấp trường THPT
 <img src="https://github.com/thotyno/ThoTyno/blob/a09b5829271aab28ebb5d39b4130d2318910921e/Giai_I_KHKT_11A10.jpg" alt="Giai_I_KHKT_11A10" width="50%"/>
 
+## 
 26 - 01 - 2019: Giải nhì - Cá nhân - Cuộc thi Khoa học kỹ thuật cấp trường THPT
 <img src="https://github.com/thotyno/ThoTyno/blob/a09b5829271aab28ebb5d39b4130d2318910921e/Giai_II_KHKT_10A11.jpg" alt="Giai_II_KHKT_10A11" width="50%"/>
